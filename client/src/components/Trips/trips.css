@@ -1,9 +1,0 @@
-#trips{
-    display: flex;
-    width: 1000px;
-    flex-direction: row-reverse;
-    align-content: center;
-    flex-wrap: wrap;
-    align-items: stretch;
-    justify-content: center
-}
